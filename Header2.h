@@ -6,4 +6,6 @@
 
 class Header2 {
     Header2();
+
+    void Func1();
 }

@@ -7,3 +7,6 @@
 Header2::Header2() {
 
 }
+void Header2::Func1() {
+
+}
