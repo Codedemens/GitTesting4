@@ -9,4 +9,5 @@ class Header1 {
     Header1();
     
     void Func1();
+    void Func2();
 };
