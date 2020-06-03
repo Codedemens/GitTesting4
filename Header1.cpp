@@ -14,3 +14,6 @@ void Header1::Func1() {
 void Header2::Func2() {
 
 }
+void Header3::Func3() {
+
+}
