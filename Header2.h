@@ -11,3 +11,5 @@ class Header2 {
     void Func2();
     void Func3();
 }
+
+//Dupa
